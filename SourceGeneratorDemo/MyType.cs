@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SourceGeneratorDemo
 {
-    class MyType
+    public partial class MyType
     {
         public int Id { get; set; }
     }
