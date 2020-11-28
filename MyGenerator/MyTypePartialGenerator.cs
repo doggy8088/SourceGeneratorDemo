@@ -2,7 +2,8 @@
 
 namespace MyGenerator
 {
-    public class Class1
+    public class MyTypePartialGenerator
     {
+
     }
 }
